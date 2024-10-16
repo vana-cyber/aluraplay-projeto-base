@@ -21,14 +21,15 @@
     flex-flow: column wrap;
 }
 
+
+/* itens do menu */
+
 .menu__container {
     position: fixed;
     bottom: 0%;
     height: 74px;
     width: 100%;
 }
-
-/* itens do menu */
 
 .menu__lista {
     display: flex;
